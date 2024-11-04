@@ -40,15 +40,15 @@ Throughout the project, I developed and honed the following skills:
 
 ## Screenshots
 
-### Screenshot 1: User-Empathetic Landing Page
+### 1: User-Empathetic Landing Page
 
-![User-Empathetic Landing Page](path/to/landing-page-screenshot.jpg)
+![User-Empathetic Landing Page](https://github.com/Ankkit0413/Business-Insights-360/blob/main/Business%20Insights%20360-1.jpg)
 
 The landing page is designed with user empathy in mind, providing an intuitive starting point and clear navigation for users from different departments.
 
-### Screenshot 2: Data Modeling with 10+ Tables
+### 2: Data Modeling with 10+ Tables
 
-![Data Modeling](path/to/data-modeling-screenshot.jpg)
+![Data Modeling](https://github.com/Ankkit0413/Business-Insights-360/blob/main/Data%20Model%20360.png)
 
 This project involved complex data modeling with more than 10 interconnected tables, enabling comprehensive and accurate insights across multiple business areas.
 
@@ -77,13 +77,15 @@ This project involved complex data modeling with more than 10 interconnected tab
 
 ---
 
-2. **Access the Power BI Dashboard**: Open the provided `.pbix` file in Power BI Desktop or view it directly on [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTE1MmFkMzUtZmFkZi00MWNjLWFjNzYtZjM0NzJmZTc2NmY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+1. **Access the Power BI Dashboard**: Open the provided `.pbix` file in Power BI Desktop or view it directly on [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTE1MmFkMzUtZmFkZi00MWNjLWFjNzYtZjM0NzJmZTc2NmY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
-3. **Explore**: Use filters, drill-through options, and department-specific pages to explore insights relevant to each business unit.
+2. **Explore**: Use filters, drill-through options, and department-specific pages to explore insights relevant to each business unit.
 
 ---
 
-## LinkedIn Post
+## Links
+
+[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE1MmFkMzUtZmFkZi00MWNjLWFjNzYtZjM0NzJmZTc2NmY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 [View LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_business-insights-360-activity-7255948922123145216-shIp?utm_source=share&utm_medium=member_desktop)
 
