@@ -8,12 +8,8 @@
 
 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE1MmFkMzUtZmFkZi00MWNjLWFjNzYtZjM0NzJmZTc2NmY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
----
 
-## Key Details
-
-### Project Short Info
-
+[View LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_business-insights-360-activity-7255948922123145216-shIp?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -81,15 +77,7 @@ This project involved complex data modeling with more than 10 interconnected tab
 
 ---
 
-## How to Use
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/Naveen-S6/Business_Insights_360.git
-    cd Business_Insights_360
-    ```
-
-2. **Access the Power BI Dashboard**: Open the provided `.pbix` file in Power BI Desktop or view it directly on [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNGI0MjZlMjQtZGVhNi00NTliLTk1ZWEtNTdiNzM1MTgzMzc0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection6b7f9720829a1d745700).
+2. **Access the Power BI Dashboard**: Open the provided `.pbix` file in Power BI Desktop or view it directly on [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTE1MmFkMzUtZmFkZi00MWNjLWFjNzYtZjM0NzJmZTc2NmY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 3. **Explore**: Use filters, drill-through options, and department-specific pages to explore insights relevant to each business unit.
 
@@ -97,23 +85,6 @@ This project involved complex data modeling with more than 10 interconnected tab
 
 ## LinkedIn Post
 
-[View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6956448126543028224/)
+[View LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_business-insights-360-activity-7255948922123145216-shIp?utm_source=share&utm_medium=member_desktop)
 
 ---
-
-## Contribution
-
-1. **Fork the Repository** and create a new branch (`git checkout -b feature/NewFeature`).
-2. **Commit Your Changes** (`git commit -m 'Add new feature'`).
-3. **Push to the Branch** (`git push origin feature/NewFeature`).
-4. **Open a Pull Request**.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This structure provides a detailed GitHub project page that highlights all aspects of **Business Insights 360**, suitable for showcasing your skills and achievements in business intelligence and data analytics. Be sure to replace placeholder image paths with actual screenshot links and make any additional customizations that reflect the project's nuances.
