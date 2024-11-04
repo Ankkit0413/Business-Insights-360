@@ -94,7 +94,7 @@ Additional tables include:
 
 Data was imported from a MySQL database into Power BI. Key data modeling principles followed include:
 - **Snowflake Schema**: Structured using a snowflake data model.
-- **Best Practices**: Ensured a strong foundation for report performance by following data modeling best practices (link to [best practices blog](#)).
+- **Best Practices**: Ensured a strong foundation for report performance by following data modeling best practices.
 
 ## Dashboard Design
 
